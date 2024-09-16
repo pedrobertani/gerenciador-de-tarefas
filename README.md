@@ -16,3 +16,4 @@ Este é um projeto front-end para gerenciar tarefas de usuários, construído co
 - **src/app/components/tasks/task**: Componente para adicionar novas tarefas.
 - **src/app/models/**: Modelos TypeScript para usuários e tarefas.
 - **src/app/services/**: Serviços Angular para fornecer dados mockados.
+- **src/app/mocks/**: Pasta com os dados Fictício.
