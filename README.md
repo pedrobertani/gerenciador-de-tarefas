@@ -17,3 +17,5 @@ Este é um projeto front-end para gerenciar tarefas de usuários, construído co
 - **src/app/models/**: Modelos TypeScript para usuários e tarefas.
 - **src/app/services/**: Serviços Angular para fornecer dados mockados.
 - **src/app/mocks/**: Pasta com os dados Fictício.
+
+![gerenciador-de-tarefas](https://github.com/user-attachments/assets/bf196726-f886-43e7-888a-cedc28dbff61)
